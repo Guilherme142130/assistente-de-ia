@@ -1,0 +1,188 @@
+[
+    {
+        "id": 1,
+        "categoria": "trabalho",
+        "titulo": "Como encontrar o primeiro emprego?",
+        "palavras_chave": ["emprego",
+            "trabalho",
+            "primeiro emprego", 
+            "estágio",
+            "Jovem Aprendiz"],
+        "resposta":" Para encontrar o primeiro emprego, primeiro é importante saber o que gostaria de fazer. Depois, é importante pesquisar oportunidades e se preparar para entrevistas.Também recomendo conferir se a informação sobre a idade mínima está atualizada e devidamente respaldada pela fonte oficial. ", 
+        "documentos": [
+    "RG",
+    "CPF",
+    "Carteira de Trabalho",
+    "Declaração Escolar",
+    "Carteira de Vacinação",
+    "Currículo"
+],
+        "onde": "Sites de emprego, agências de recrutamento, redes sociais profissionais, feiras de emprego, programas de estágio e Jovem Aprendiz.",
+        "fonte": "https://www.gov.br/pt-br/servicos/obter-um-emprego",
+        "verificado_em": "2026-11-05"
+    },
+
+    {   
+        "id": 2,
+        "categoria": "trabalho",
+        "titulo": "Como se preparar para uma entrevista de emprego?",
+        "palavras_chave": ["entrevista", "preparação","entrevista de emprego", "preparação para entrevista de emprego"],
+        "resposta": "Para se preparar para uma entrevista de emprego, é importante pesquisar sobre a empresa, praticar respostas para perguntas comuns, e se apresentar de forma profissional.",
+        "documentos": [
+            "RG",
+            "CPF",
+            "Carteira de Trabalho",
+            "Currículo"
+        ],
+        "onde": "Empresas, agências de recrutamento, sites de emprego.",
+        "fonte": "https://www.gov.br/pt-br/servicos/obter-um-emprego",
+        "verificado_em": "2026-11-05"
+    },
+    {
+        "id": 3,
+        "categoria": "trabalho",
+        "titulo": "Dicas para se destacar no mercado de trabalho",
+        "palavras_chave": ["mercado de trabalho", "carreira profissional", "profissional"],
+        "resposta": "Para se destacar no mercado de trabalho, é importante desenvolver habilidades relevantes, manter-se atualizado com as tendências da indústria, construir uma rede de contatos e demonstrar proatividade e comprometimento.",
+        "documentos": [
+            "RG",
+            "CPF",
+            "Carteira de Trabalho",
+            "Currículo"
+        ],
+        "onde": "Empresas, agências de recrutamento, sites de emprego.",
+        "fonte": "https://www.gov.br/pt-br/servicos/obter-um-emprego",
+        "verificado_em": "2026-11-05"
+
+    },
+    
+    {
+        "id": 4,
+        "categoria": "trabalho",
+        "titulo": "Como criar um currículo eficaz?",
+        "palavras_chave": ["currículo", "currículo eficaz", "currículo profissional"],
+        "resposta": "Criar um currículo eficaz exige clareza e objetividade. Mantenha-o em no máximo uma ou duas páginas, utilizando uma formatação limpa e legível em PDF.Inicie com um cabeçalho simples (nome, contato, cidade e LinkedIn) e um objetivo profissional direto. Em seguida, adicione um breve resumo de três linhas destacando suas principais competências.Na experiência profissional, liste os cargos do mais recente ao mais antigo, destacando resultados mensuráveis e usando verbos de ação. Por fim, inclua sua formação acadêmica, idiomas e cursos relevantes, adaptando as palavras-chave para a vaga desejada.",
+        "documentos": [
+            "Dados pessoais: Nome completo, cidade/estado, telefone, e-mail e link do LinkedIn.",
+            "Histórico: Cargo desejado, resumo profissional, experiências anteriores com resultados, formação acadêmica, idiomas e cursos relevantes.",
+            "Sempre que possivel, evitar de colocar foto, idade, estado civil, religião, gênero ou qualquer informação que possa gerar preconceito.Tambem evitar colocar RG, CPF, endereço completo, ou informações pessoais sensíveis."
+        ],
+        "onde": "canva, sites de criação de currículos, modelos de currículos online, word, google docs.",
+        "fonte": "https://www.gov.br/pt-br/servicos/obter-um-emprego",
+        "verificado_em": "2026-11-05"
+    },
+    { 
+        "id": 5,
+        "categoria": "titulo de eleitor",
+        "titulo": "Como tirar o título de eleitor?",
+        "palavras_chave": ["título de eleitor", "como tirar título de eleitor", "documentos para título de eleitor"],
+        "resposta": "Para tirar o título de eleitor, é necessário comparecer a um cartório eleitoral com os documentos exigidos, como RG, CPF e comprovante de residência. É importante verificar os requisitos específicos do seu estado e agendar um horário, se necessário.",
+        "documentos": [
+            "Documento oficial de identidade com foto (frente e verso): RG, Carteira de Trabalho, Passaporte (com naturalidade) ou Certidão de Nascimento/Casamento. A CNH não é aceita para o primeiro título.",
+            "Comprovante de residência recente: Conta de luz, água, telefone ou contrato de aluguel emitido nos últimos 12 meses.",
+            "Foto selfie: Tirada segurando o documento de identidade ao lado do rosto (exigida no atendimento online).",
+            "Comprovante de quitação militar: Exigido apenas para homens a partir de 30 de junho do ano em que completam 18 anos até 31 de dezembro do ano em que completam 45 anos."
+        ],
+        "onde": "Cartório eleitoral, site do Tribunal Regional Eleitoral (TRE) do seu estado.",
+        "fonte": "https://www.tse.jus.br/eleitor/titulo-de-eleitor",
+        "verificado_em": "2026-11-05"
+    },
+    
+    { 
+        "id": 6,
+        "categoria": "titulo de eleitor",
+        "titulo": "Como regularizar o título de eleitor?",
+        "palavras_chave": ["regularizar título de eleitor", "como regularizar título de eleitor", "documentos para regularização do título de eleitor", "Regularizar titulo","Regulaziração de titulo de eleitor","Regularização de titulo."],
+        
+        "resposta": "Para regularizar o título de eleitor pendente ou cancelado, você precisa primeiro verificar a sua situação no portal do Tribunal Superior Eleitoral (TSE) ou pelo aplicativo e-Título. Caso existam multas pendentes por ausência às urnas em eleições anteriores, é necessário quitá-las por PIX ou boleto gerado no próprio sistema antes de dar andamento ao pedido.Com a situação quitada, você pode fazer a solicitação online pelo sistema Título Net (no site do TSE ou pelo e-Título), onde basta preencher seus dados pessoais, anexar a foto dos documentos solicitados e enviar uma selfie segurando o documento de identidade. Se preferir o atendimento presencial, basta fazer o agendamento no site do Tribunal Regional Eleitoral (TRE) do seu estado e comparecer ao Cartório Eleitoral na data marcada munido dos documentos originais.",
+        "documentos": [
+            "Documento oficial de identidade com foto (original ou cópia digital legível): RG, CNH, Carteira de Trabalho, Passaporte (com naturalidade) ou Carteira de Categoria Profissional.",
+            "Comprovante de residência recente (emitido nos últimos 12 meses): contas de água, luz, telefone ou contrato de aluguel em seu nome ou de parentes de 1º grau.",
+            "Foto segurando o documento de identidade: exigida apenas para solicitações enviadas de forma online (Título Net).",
+            "Comprovante de quitação militar: exigido apenas para homens no ano em que completam 19 anos (para primeiro alistamento ou regularização militar)."
+
+        ],
+        "onde": "Cartório eleitoral, site do Tribunal Regional Eleitoral (TRE) do seu estado.",
+        "fonte": "https://www.tse.jus.br/eleitor/titulo-de-eleitor",
+        "verificado_em": "2026-11-05"
+    },
+    { 
+        "id": 7,
+        "categoria": "titulo de eleitor",
+        "titulo": "Como transferir o título de eleitor?",
+        "palavras_chave": ["transferir título de eleitor", "como transferir título de eleitor", "documentos para transferência do título de eleitor"],
+        "resposta": " Antes de começar, garante que você cumpre dois requisitos rápidos: morar (ou ter vínculo) há pelo menos 3 meses na nova cidade e já ter se passado 1 ano desde que você tirou ou transferiu o título pela última vez.Pela internet: Acesse o site do TSE (na aba Título Net) ou baixe o app e-Título. Você preenche os dados, tira foto dos documentos (e uma foto sua segurando o documento) e envia. Depois é só acompanhar pelo número de protocolo.Presencialmente: Entre no site do TRE do seu novo estado, agende um horário e vá ao Cartório Eleitoral mais próximo levando seus documentos originais.",              
+        "documentos": [
+            "Documento oficial de identidade com foto (original ou cópia digital legível): RG, CNH, Carteira de Trabalho, Passaporte (com naturalidade) ou Carteira de Categoria Profissional.",
+            "Comprovante de quitação eleitoral: Estar sem multas pendentes por ausência às urnas.",
+            "Comprovante de residência recente: Conta de luz, água, telefone ou contrato de aluguel emitido nos últimos 12 meses (comprovando vínculo de no mínimo 3 meses com a cidade).",
+            "Comprovante de quitação militar: Exigido apenas para homens no ano em que completam 19 anos."
+        ],
+        "onde": "Cartório eleitoral, site do Tribunal Regional Eleitoral (TRE) do seu estado.",
+        "fonte": "https://www.tse.jus.br/eleitor/titulo-de-eleitor",
+        "verificado_em": "2026-11-05"
+    },
+    { 
+        "id": 8,
+        "categoria": "titulo de eleitor",
+        "titulo": "Como consultar a situação do título de eleitor?",
+        "palavras_chave": ["consultar situação do título de eleitor", "como consultar situação do título de eleitor", "documentos para consulta da situação do título de eleitor"],
+        "resposta": "Você pode consultar sua situação eleitoral pelo Autoatendimento Eleitoral - Título Net, menu Consultas, opção Situação do título). Esse serviço permite consultar a disponibilidade da inscrição eleitoral (título) para a votação e a realização de operações do Cadastro Eleitoral (revisão, transferência).",
+        "documentos": [
+            "Nome completo",
+            "CPF",
+            "data de nascimento",
+            "Nome dos pais"
+        ],
+        "onde": "Site do Tribunal Superior Eleitoral (TSE).",
+        "fonte": "https://www.tse.jus.br/eleitor/titulo-de-eleitor",
+        "verificado_em": "2026-11-05"
+    },
+    {
+        "id": 9,
+        "categoria": "titulo de eleitor",
+        "titulo": "Onde ver o local de votação?",
+        "palavras_chave": ["local de votação", "como ver local de votação", "documentos para verificar local de votação"],
+        "resposta": "Você pode consultar o número do título eleitoral no Autoatendimento Eleitoral - Título Net, menu consultas, opção numero do titulo. Esse serviço permite consultar o número da inscrição eleitoral (título).Para consultar o local de votação no Autoatendimento Eleitoral - Título Net, você deve escolher no menu consultas a opção onde vo. Esse serviço permite consultar o local de votação.Você também pode consultar esses dados pelo aplicativo e-Título. Porém, nesse caso, deve acessar o aplicativo e-Título digitando o número do CPF. .",
+        "documentos": [
+            "data de nascimento",
+            "CPF",
+            "Nome completo da Mãe"
+        ],
+        "onde": "Site do Tribunal Superior Eleitoral (TSE), aplicativo e-Título.",
+        "fonte": "https://www.tse.jus.br/eleitor/titulo-de-eleitor",
+        "verificado_em": "2026-11-05"
+    },
+    {
+        "id": 10,
+        "categoria": "CPF",
+        "titulo": "Como tirar o CPF?",
+        "palavras_chave": ["tirar CPF", "como tirar CPF", "documentos para tirar CPF", "obter CPF", "como obter CPF","Como emitir CPF","como tirar o cpf"],
+        "resposta": "Para tirar o CPF, você pode solicitar gratuitamente pela internet no site da Receita Federal (gov.br/receitafederal) preenchendo o formulário de inscrição e anexando seus documentos digitais (RG, comprovante de residência e Título de Eleitor). Caso não consiga online ou haja alguma pendência, o atendimento presencial é feito em agências dos Correios, Caixa Econômica Federal ou Banco do Brasil (com taxa de conveniência de até R$ 7,00).",
+        "documentos": [
+            "Documento oficial de identidade com foto: RG, Certidão de Nascimento/Casamento ou Carteira de Trabalho (CNH não é aceita no primeiro CPF).",
+            "Comprovante de residência recente.",
+            "Título de Eleitor (para maiores de 18 anos).",
+            "Selfie segurando o documento (exigida apenas se o pedido for feito online pelo site da Receita Federal.)"
+        ],
+        "onde": "Online e Gratuito: Acesse o site oficial da Receita Federal (gov.br/receitafederal), preencha o formulário de inscrição e informe seus dados básicos. Na maioria dos casos, o número é gerado na hora.Presencial (Taxa de até R$ 7,00): Compareça a uma agência dos Correios, Caixa Econômica Federal, Banco do Brasil ou postos de atendimento ao cidadão (como Poupatempo/SAC) levando documento de identidade original, comprovante de residência e Título de Eleitor.",
+        "fonte": "https://www.gov.br/pt-br/servicos/obter-o-cpf",
+        "verificado_em": "2026-11-05"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

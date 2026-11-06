@@ -1,0 +1,72 @@
+[
+    {
+        "data": "2026-11-06 13:29:30",
+        "origem": "pergunta",
+        "pergunta": "trabalho",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 25.0
+    },
+    {
+        "data": "2026-11-06 14:08:16",
+        "origem": "pergunta",
+        "pergunta": "trabalho",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 2,
+        "tempo_segundos": 37.4
+    },
+    {
+        "data": "2026-11-06 14:10:56",
+        "origem": "pergunta",
+        "pergunta": "emprego",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 2,
+        "tempo_segundos": 22.5
+    },
+    {
+        "data": "2026-11-06 14:13:51",
+        "origem": "pergunta",
+        "pergunta": "dicas",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 2,
+        "tempo_segundos": 21.9
+    },
+    {
+        "data": "2026-11-06 16:17:14",
+        "origem": "pergunta",
+        "pergunta": "como tirar o cpf",
+        "id_orientacao": 10,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 2.1
+    },
+    {
+        "data": "2026-11-06 16:17:30",
+        "origem": "pergunta",
+        "pergunta": "como fazer um curriculo",
+        "id_orientacao": 4,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 3.1
+    },
+    {
+        "data": "2026-11-06 16:23:09",
+        "origem": "categoria",
+        "pergunta": "trabalho",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 2.0
+    }
+]
