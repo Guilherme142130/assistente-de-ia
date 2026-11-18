@@ -1,5 +1,5 @@
 print("=============================================")
-print("NextJovem - Sistema de Gestão de Jovens")
+print("Alfred Jovem")
 print("=============================================")
 
 print("\nseja bem vindo ao sistema de gestão de jovens!")
