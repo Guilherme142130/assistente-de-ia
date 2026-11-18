@@ -68,5 +68,35 @@
         "ajudou": true,
         "tentativas": 1,
         "tempo_segundos": 2.0
+    },
+    {
+        "data": "2026-11-18 16:09:35",
+        "origem": "pergunta",
+        "pergunta": "tirar cpf",
+        "id_orientacao": 10,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 8.7
+    },
+    {
+        "data": "2026-11-18 16:09:49",
+        "origem": "categoria",
+        "pergunta": "titulo de eleitor",
+        "id_orientacao": 6,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 2.1
+    },
+    {
+        "data": "2026-11-18 16:09:54",
+        "origem": "categoria",
+        "pergunta": "titulo de eleitor",
+        "id_orientacao": 8,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 2.2
     }
 ]
