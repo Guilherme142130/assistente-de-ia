@@ -1,5 +1,5 @@
 print("=============================================")
-print("Alfred Jovem")
+print("Alfred Jovem - Assistente Virtual")
 print("=============================================")
 
 print("\nseja bem vindo ao sistema de gestão de jovens!")

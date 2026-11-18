@@ -70,33 +70,23 @@
         "tempo_segundos": 2.0
     },
     {
-        "data": "2026-11-18 16:09:35",
+        "data": "2026-11-18 16:26:01",
         "origem": "pergunta",
-        "pergunta": "tirar cpf",
-        "id_orientacao": 10,
+        "pergunta": "entrevista",
+        "id_orientacao": 2,
         "encontrou": true,
         "ajudou": true,
-        "tentativas": 1,
-        "tempo_segundos": 8.7
+        "tentativas": 3,
+        "tempo_segundos": 20.3
     },
     {
-        "data": "2026-11-18 16:09:49",
-        "origem": "categoria",
-        "pergunta": "titulo de eleitor",
-        "id_orientacao": 6,
+        "data": "2026-11-18 16:26:20",
+        "origem": "pergunta",
+        "pergunta": "profissional",
+        "id_orientacao": 3,
         "encontrou": true,
         "ajudou": true,
         "tentativas": 1,
-        "tempo_segundos": 2.1
-    },
-    {
-        "data": "2026-11-18 16:09:54",
-        "origem": "categoria",
-        "pergunta": "titulo de eleitor",
-        "id_orientacao": 8,
-        "encontrou": true,
-        "ajudou": true,
-        "tentativas": 1,
-        "tempo_segundos": 2.2
+        "tempo_segundos": 3.1
     }
 ]
