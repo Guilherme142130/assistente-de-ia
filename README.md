@@ -92,7 +92,7 @@ O sistema não substitui orientações profissionais ou atendimento de órgãos 
 
 ## 12. Vídeo de apresentação
 
-Link do vídeo: [INSERIR LINK DO YOUTUBE]
+Link do vídeo: (https://youtu.be/_oNcATzyURc)
 
 ## 13. Integrantes da equipe
 
