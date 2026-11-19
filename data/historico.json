@@ -88,5 +88,16 @@
         "ajudou": true,
         "tentativas": 1,
         "tempo_segundos": 3.1
+    },
+    {
+        "data": "2026-11-19 00:59:16",
+        "origem": "pergunta",
+        "pergunta": "primeiro",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 0.7,
+        "nota_facilidade": 5
     }
 ]
